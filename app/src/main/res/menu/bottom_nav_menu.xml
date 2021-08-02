@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/navigation_livetracking"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        android:title="Live Tracking" />
+
+    <item
+        android:id="@+id/navigation_vehicles"
+        android:icon="@drawable/ic_baseline_directions_car_24"
+        android:title="Vehicles" />
+
+    <item
+        android:id="@+id/navigation_services"
+        android:icon="@drawable/ic_baseline_miscellaneous_services_24"
+        android:title="Services" />
+
+    <item
+        android:id="@+id/navigation_help"
+        android:icon="@drawable/ic_baseline_help_24"
+        android:title="Help" />
+
+</menu>
